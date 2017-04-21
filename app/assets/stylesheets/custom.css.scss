@@ -7,6 +7,14 @@
 	font-weight: bold;
 }
 
+.article-actions{
+	border-top: 1px solid #eaeaea;
+	padding-top: 5px;
+}
+
+.description{
+	margin-top: 0;
+}
 
 .jumbotron {
 	background-image: asset-url('main-bg');
@@ -29,7 +37,6 @@ footer {
 
 footer a:hover {
 	color: #222;
-	font-weight: bold;
 	text-decoration: none;
 }
 
